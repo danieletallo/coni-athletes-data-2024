@@ -6,4 +6,5 @@ If you're not interested in the code, here's how to run the project and get the 
 2) Open the 'CONI_Ita.exe.config' file with Notepad and edit the 'ExcelFilePath' parameter by specifying the directory where you want the file to be saved.
 3) Run the 'CONI_Ita.exe' file and wait about 10 minutes. The program will fetch the latest data from the CONI website and generate an up-to-date Excel file.
 
+It's not optimized... but it works.
 If you encounter any issues, feel free to contact me via email or on LinkedIn.
